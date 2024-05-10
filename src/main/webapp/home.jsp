@@ -8,9 +8,7 @@
 </head>
 <body>
 <h1> git</h1>
-<div >
-<p>hii i'm priyadharshini </p>
-</div>
+
 <div >
 <p>hii i'm priyadharshini this is my first
 git project sample</p>
