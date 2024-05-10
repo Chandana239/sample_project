@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>hello git</h1>
+<h1> git</h1>
 <div >
 <p>hii i'm priyadharshini this is my first
 git project sample</p>
