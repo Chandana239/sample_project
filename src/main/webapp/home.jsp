@@ -12,6 +12,7 @@
 <div >
 <p>hii i'm priyadharshini this is my first
 git project sample</p>
+<p>commiting changes to project</p>
 </div>
 </body>
 </html>
