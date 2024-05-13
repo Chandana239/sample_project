@@ -13,7 +13,7 @@
 <p>hii i'm priyadharshini this is my first
 git project sample</p>
 <p>commiting changes to project</p>
-<p>commiting changes to project</p>
+<p>priyad</p>
 </div>
 </body>
 </html>
