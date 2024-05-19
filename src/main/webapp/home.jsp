@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +12,7 @@
 <p>hii i'm priyadharshini this is my first
 git project sample</p>
 <p>commiting changes to project</p>
-<p>priyad</p>
+<p>pushing the code to the github</p>
 </div>
 </body>
 </html>
