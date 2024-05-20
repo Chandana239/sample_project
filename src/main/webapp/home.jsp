@@ -14,6 +14,7 @@ git project sample</p>
 <p>commiting changes to project</p>
 <p>pushing the code to the github</p>
 <p> pulling the code to the eclipse </p>
+<p>committing by swetha  </p>
 </div>
 </body>
 </html>
